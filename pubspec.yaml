@@ -39,6 +39,9 @@ dependencies:
   http: ^0.13.5
   font_awesome_flutter: ^10.2.1
   i18n_extension: ^4.1.0
+  geolocator: ^9.0.2
+  baseflow_plugin_template: ^2.1.1
+  flutter_google_places: ^0.3.0
 
 dev_dependencies:
   flutter_test:
